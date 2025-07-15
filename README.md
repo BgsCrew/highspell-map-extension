@@ -2,6 +2,12 @@
 
 A browser extension that seamlessly integrates an interactive map into the Highspell online game, providing players with easy access to the Highlite.dev map without leaving the game interface.
 
+## ⬇️ Extension Store Links
+
+### Chrome: Awaiting approval...
+
+### Firefox: Awaiting approval...
+
 ## Quick Start - Sideloading Instructions
 
 ### For Chrome Users
