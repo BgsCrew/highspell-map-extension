@@ -4,7 +4,7 @@ A browser extension that seamlessly integrates an interactive map into the Highs
 
 ## ⬇️ Extension Store Links
 
-### Chrome: Awaiting approval...
+### [Chrome](https://chromewebstore.google.com/detail/highspell-map-extension/giacimgcjcicjiilpanocdhabihemodh)
 
 ### Firefox: Awaiting approval...
 
